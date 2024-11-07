@@ -1,9 +1,9 @@
 # Scenario Framework
 ## Scenario based game framework for unity
 
->:arrow_down: Installation via Unity PM git link [Installer](https://github.com/UBTA/ScenarioFramework.git?path=Assets/Installer)
+>:arrow_down: Installation via Unity PM git link [Installer](unavailabel)
 
->:triangular_flag_on_post: Create issues with framework [Git](https://github.com/UBTA/ScenarioFramework/issues)
+>:triangular_flag_on_post: Create issues with framework [Git](https://github.com/UBTA/Scenario.Framework/issues)
 
 >:link: Keep track of updates in [Telegram](https://t.me/ZeroPets)
 
